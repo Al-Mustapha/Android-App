@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Software</string>
+    <string name="ushint">Username</string>
+    <string name="pshint">Password</string>
+    <string name="firstname">Firstname</string>
+    <string name="middlename">Middlename</string>
+    <string name="lastname">Lastname</string>
+    <string name="email">Email Address</string>
+    <string name="dob">Date of birth</string>
+    <string name="profile">Profile</string>
+    <string name="foods">Foods</string>
+    <string name="beverages">Beverages</string>
+    <string name="contact">Contact</string>
+    <string name="welcome">WELCOME</string>
+    <string name="edit">EDIT</string>
+    <string name="save">SAVE</string>
+    <string name="avfoods">Available Foods in our Restaurant</string>
+
+
+</resources>
