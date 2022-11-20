@@ -6,6 +6,7 @@ import android.graphics.BitmapFactory;
 import java.io.ByteArrayOutputStream;
 
 public class Pizza {
+    
 
     private String name;
     private byte[] images;
